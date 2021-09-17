@@ -1,2 +1,4 @@
 # playplaza
-the new playplaza
+virtual clubhouse
+
+playplaza.github.io/playplaza

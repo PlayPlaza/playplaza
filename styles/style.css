@@ -1,0 +1,21 @@
+h1 {
+    color: #ff5050;
+    text-align:center;
+}
+
+body {
+
+    background: rgb(255,80,80);
+background: -moz-linear-gradient(90deg, rgba(255,80,80,1) 8%, rgba(14,19,240,1) 50%, rgba(246,69,252,1) 100%);
+background: -webkit-linear-gradient(90deg, rgba(255,80,80,1) 8%, rgba(14,19,240,1) 50%, rgba(246,69,252,1) 100%);
+background: linear-gradient(90deg, rgba(255,80,80,1) 8%, rgba(14,19,240,1) 50%, rgba(246,69,252,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ff5050",endColorstr="#f645fc",GradientType=1);
+
+}
+
+.playplaza-header {
+    color:#ff5050;
+    text-align: center;
+    font-family: 'Motter Tektura Cyrilic';
+    text-shadow: 4px 4px 4px rgb(196, 65, 65);
+}
