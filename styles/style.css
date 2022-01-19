@@ -22,6 +22,44 @@ header > h1 {
     font-style: italic;
 }
 
+h1 {
+    
+    color: #94283e;
+    text-align: center;
+    font-family: 'EB Garamond', serif;
+    font-style: italic;
+    
+}
+
+h2 {
+    
+    color: #282894;
+    text-align: center;
+    font-family: 'Source Code Pro', monospace;
+    font-style: italic;
+    
+}
+
+h3 {
+    
+    color: #282894;
+    text-align: center;
+    font-family: 'Source Code Pro', monospace;
+    font-family: 'Source Serif Pro', serif;
+    font-style: italic;
+    
+}
+
+h4 {
+    
+    color: #282894;
+    text-align: center;
+    font-family: 'Source Code Pro', monospace;
+    font-style: italic;
+    
+}
+
+
 body {
 
   background-color: #666685;
